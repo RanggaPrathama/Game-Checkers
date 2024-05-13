@@ -1,2 +1,2 @@
-# Game-Checkers
-Kecerdasan Buatan AI Pada Game Checkers
+# Python-Checkers-AI
+A checkers AI using the minimax algorithm.
